@@ -96,3 +96,14 @@ C:\local\Projects\C#Nunit\TestExample\TestTestExample\obj\Debug\netcoreapp3.1\Te
 C:\local\Projects\C#Nunit\TestExample\TestTestExample\obj\Debug\netcoreapp3.1\TestTestExample.dll
 C:\local\Projects\C#Nunit\TestExample\TestTestExample\obj\Debug\netcoreapp3.1\TestTestExample.pdb
 C:\local\Projects\C#Nunit\TestExample\TestTestExample\obj\Debug\netcoreapp3.1\TestTestExample.genruntimeconfig.cache
+C:\local\Projects\C#Nunit\TestExample\TestTestExample\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
+C:\local\Projects\C#Nunit\TestExample\TestTestExample\bin\Debug\netcoreapp3.1\TestExample.deps.json
+C:\local\Projects\C#Nunit\TestExample\TestTestExample\bin\Debug\netcoreapp3.1\TestExample.runtimeconfig.json
+C:\local\Projects\C#Nunit\TestExample\TestTestExample\bin\Debug\netcoreapp3.1\TestExample.runtimeconfig.dev.json
+C:\local\Projects\C#Nunit\TestExample\TestTestExample\bin\Debug\netcoreapp3.1\TestExample.exe
+C:\local\Projects\C#Nunit\TestExample\TestTestExample\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\local\Projects\C#Nunit\TestExample\TestTestExample\bin\Debug\netcoreapp3.1\Moq.dll
+C:\local\Projects\C#Nunit\TestExample\TestTestExample\bin\Debug\netcoreapp3.1\Models.dll
+C:\local\Projects\C#Nunit\TestExample\TestTestExample\bin\Debug\netcoreapp3.1\TestExample.dll
+C:\local\Projects\C#Nunit\TestExample\TestTestExample\bin\Debug\netcoreapp3.1\TestExample.pdb
+C:\local\Projects\C#Nunit\TestExample\TestTestExample\bin\Debug\netcoreapp3.1\Models.pdb
