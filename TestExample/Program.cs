@@ -7,11 +7,21 @@ namespace TestExample
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            BookIngDetail b = new BookIngDetail();
-            b.BookStatus = true;
-           var result =  BookingHelper.checkOverlap(b);
-            Console.WriteLine(result);
+            string Dest = "";
+            while (Dest != "exit")
+            {
+                Console.WriteLine("Hello World!");
+                Dest = Console.ReadLine();
+
+                BookIngDetail b = new BookIngDetail();
+                b.BookStatus = true;
+                b.Destination = Dest;
+                BookingHelper bkhg = new BookingHelper(new BookService());
+                var result = bkhg.checkOverlap(b);
+                Console.WriteLine(result);
+                Console.WriteLine("***********************************************************************************************************************");
+
+            }
         }
     }
 }
