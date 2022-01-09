@@ -19,11 +19,13 @@ namespace TestTestExample
         public void checkOverlap_CallWithOverLap_ReturnOverlappedRecord()
         {
             var svcMoq = new Mock<IBookService>();
-            svcMoq.Setup(x => x.GetAllBooking()).Returns(new System.Collections.Generic.List<BookIngDetail>() {
+            System.Collections.Generic.List<BookIngDetail> value = new System.Collections.Generic.List<BookIngDetail>() {
             new BookIngDetail(){Id = 1, BookStatus=true, Destination="Toronto"},
             new BookIngDetail(){Id = 2, BookStatus=true, Destination="Jamaika"},
             new BookIngDetail(){Id = 3, BookStatus=true, Destination="BC"},
-            });
+            };
+
+            svcMoq.Setup(x => x.GetAllBooking()).Returns(value);
 
             BookIngDetail b = new BookIngDetail();
             b.BookStatus = true;
