@@ -1,0 +1,14 @@
+C:\local\Projects\C#Nunit\TestExample\TestExample\bin\Debug\netcoreapp3.1\TestExample.exe
+C:\local\Projects\C#Nunit\TestExample\TestExample\bin\Debug\netcoreapp3.1\TestExample.deps.json
+C:\local\Projects\C#Nunit\TestExample\TestExample\bin\Debug\netcoreapp3.1\TestExample.runtimeconfig.json
+C:\local\Projects\C#Nunit\TestExample\TestExample\bin\Debug\netcoreapp3.1\TestExample.runtimeconfig.dev.json
+C:\local\Projects\C#Nunit\TestExample\TestExample\bin\Debug\netcoreapp3.1\TestExample.dll
+C:\local\Projects\C#Nunit\TestExample\TestExample\bin\Debug\netcoreapp3.1\TestExample.pdb
+C:\local\Projects\C#Nunit\TestExample\TestExample\obj\Debug\netcoreapp3.1\TestExample.csproj.AssemblyReference.cache
+C:\local\Projects\C#Nunit\TestExample\TestExample\obj\Debug\netcoreapp3.1\TestExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\local\Projects\C#Nunit\TestExample\TestExample\obj\Debug\netcoreapp3.1\TestExample.AssemblyInfoInputs.cache
+C:\local\Projects\C#Nunit\TestExample\TestExample\obj\Debug\netcoreapp3.1\TestExample.AssemblyInfo.cs
+C:\local\Projects\C#Nunit\TestExample\TestExample\obj\Debug\netcoreapp3.1\TestExample.csproj.CoreCompileInputs.cache
+C:\local\Projects\C#Nunit\TestExample\TestExample\obj\Debug\netcoreapp3.1\TestExample.dll
+C:\local\Projects\C#Nunit\TestExample\TestExample\obj\Debug\netcoreapp3.1\TestExample.pdb
+C:\local\Projects\C#Nunit\TestExample\TestExample\obj\Debug\netcoreapp3.1\TestExample.genruntimeconfig.cache

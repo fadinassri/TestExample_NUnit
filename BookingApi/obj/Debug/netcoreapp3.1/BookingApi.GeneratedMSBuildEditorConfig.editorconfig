@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = BookingApi
+build_property.ProjectDir = C:\local\Projects\C#Nunit\TestExample\BookingApi\

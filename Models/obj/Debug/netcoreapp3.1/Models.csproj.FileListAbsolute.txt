@@ -1,0 +1,10 @@
+C:\local\Projects\C#Nunit\TestExample\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+C:\local\Projects\C#Nunit\TestExample\Models\bin\Debug\netcoreapp3.1\Models.dll
+C:\local\Projects\C#Nunit\TestExample\Models\bin\Debug\netcoreapp3.1\Models.pdb
+C:\local\Projects\C#Nunit\TestExample\Models\obj\Debug\netcoreapp3.1\Models.csproj.AssemblyReference.cache
+C:\local\Projects\C#Nunit\TestExample\Models\obj\Debug\netcoreapp3.1\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\local\Projects\C#Nunit\TestExample\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\local\Projects\C#Nunit\TestExample\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\local\Projects\C#Nunit\TestExample\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+C:\local\Projects\C#Nunit\TestExample\Models\obj\Debug\netcoreapp3.1\Models.dll
+C:\local\Projects\C#Nunit\TestExample\Models\obj\Debug\netcoreapp3.1\Models.pdb
