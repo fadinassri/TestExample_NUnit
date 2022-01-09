@@ -12,3 +12,8 @@ C:\local\Projects\C#Nunit\TestExample\TestExample\obj\Debug\netcoreapp3.1\TestEx
 C:\local\Projects\C#Nunit\TestExample\TestExample\obj\Debug\netcoreapp3.1\TestExample.dll
 C:\local\Projects\C#Nunit\TestExample\TestExample\obj\Debug\netcoreapp3.1\TestExample.pdb
 C:\local\Projects\C#Nunit\TestExample\TestExample\obj\Debug\netcoreapp3.1\TestExample.genruntimeconfig.cache
+C:\local\Projects\C#Nunit\TestExample\TestExample\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\local\Projects\C#Nunit\TestExample\TestExample\bin\Debug\netcoreapp3.1\Models.dll
+C:\local\Projects\C#Nunit\TestExample\TestExample\bin\Debug\netcoreapp3.1\Models.pdb
+C:\local\Projects\C#Nunit\TestExample\TestExample\obj\Debug\netcoreapp3.1\TestExample.csproj.CopyComplete
+C:\local\Projects\C#Nunit\TestExample\TestExample\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
