@@ -32,7 +32,24 @@ namespace TestTestExample
             b.Destination = "Toronto";
             BookingHelper bkhg = new BookingHelper(_svcMoq.Object);
             var result = bkhg.checkOverlap(b);
-            Assert.That(result.Contains("Toronto"));
+            Assert.That(result,Does.Contain("Toronto"));
+        }
+
+        [Test]
+        public void checkOverlap_CallWithoutOverLap_ReturnAllRecords()
+        {
+
+
+            BookIngDetail b = new BookIngDetail();
+            b.BookStatus = true;
+            b.Destination = "Banana";
+            BookingHelper bkhg = new BookingHelper(_svcMoq.Object);
+            var result = bkhg.checkOverlap(b);
+            Assert.That(result, Does.Contain("1"));
+            Assert.That(result, Does.Contain("2"));
+            Assert.That(result, Does.Contain("3"));
+
+
         }
 
 
